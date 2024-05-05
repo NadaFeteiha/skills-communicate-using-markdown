@@ -9,3 +9,10 @@
 $ git init
 Initialized empty Git repository in https://github.com/NadaFeteiha/QuoteWire-multiplatform.git 
 ```
+
+Turn on GitHub Pages
+- [X]  Get quotes from the internet
+- [X] Save quotes
+- [ ]  Share quotes
+- [ ]  View a list of your saved quotes
+- [ ]  Search for quotes
